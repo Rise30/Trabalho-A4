@@ -122,13 +122,13 @@ body {
 
 @font-face {
     font-family: 'Feelin';
-    src: url('../fonts/Feelin\ Teachy\ TTF.ttf') format('truetype');
+    src: url('./fonts/Feelin\ Teachy\ TTF.ttf') format('truetype');
 }
 
 /*Aqui vc coloca a interligação da fonte ao seu site*/
 @font-face {   
     font-family: 'Backso'; 
-    src: url('../fonts/Backso.otf') format('opentype'), url('../fonts/Backso.ttf') format('truetype'); 
+    src: url('./fonts/Backso.otf') format('opentype'), url('./fonts/Backso.ttf') format('truetype'); 
 }
 
 .nav-categories a {
